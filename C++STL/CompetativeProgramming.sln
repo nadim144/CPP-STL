@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Map_(2)_Basic_Operation", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Map_(3)_Advance_Operation", "Map_(3)_Advance_Operation\Map_(3)_Advance_Operation.vcxproj", "{45DB0FA6-A3AE-4396-BA5A-C5B98BB77A39}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gfg_(1)_Count_pair_sum", "Gfg_(1)_Count_pair_sum\Gfg_(1)_Count_pair_sum.vcxproj", "{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{45DB0FA6-A3AE-4396-BA5A-C5B98BB77A39}.Release|x64.Build.0 = Release|x64
 		{45DB0FA6-A3AE-4396-BA5A-C5B98BB77A39}.Release|x86.ActiveCfg = Release|Win32
 		{45DB0FA6-A3AE-4396-BA5A-C5B98BB77A39}.Release|x86.Build.0 = Release|Win32
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Debug|x64.ActiveCfg = Debug|x64
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Debug|x64.Build.0 = Debug|x64
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Debug|x86.Build.0 = Debug|Win32
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Release|x64.ActiveCfg = Release|x64
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Release|x64.Build.0 = Release|x64
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Release|x86.ActiveCfg = Release|Win32
+		{B4D14CB7-70D1-41ED-81C6-1DF7B10947FC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

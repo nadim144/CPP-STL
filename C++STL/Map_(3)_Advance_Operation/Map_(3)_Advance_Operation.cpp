@@ -170,20 +170,6 @@ int main()
     // (3)
     cout << endl;
     cout << "" << endl;
-
-    string line = "rjs kot w lmy nh fn zo cfg bl m q ms pnt tko iym uo nmx jl vn i sin";
-    string x = maximumFrequency(line);
-
-
-
-    vector <pair<int, int>> v = {
-            {1,2},{3,4},{5,6}
-    };//In
-
-    for (vector<pair<int, int>>::iterator it = v.begin(); it != v.end(); ++it)
-    {
-        cout << it->second << endl;
-    }
     
     return 0;
 }
