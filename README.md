@@ -1,1 +1,1 @@
-# C++ MFC Programming
+# C++ STL Programming - Learning and competative programming.
