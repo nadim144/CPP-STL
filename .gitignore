@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/C++STL/.vs/CompetativeProgramming/v16/ipch/AutoPCH/ab289ef2a810b093
+*.db-shm
+*.db-wal
+*.opendb
+/C++STL/Vector_(1)/x64/Debug
+/C++STL/Vector_(2)/x64/Debug
+*.ipch

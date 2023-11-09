@@ -78,3 +78,27 @@ int main()
 	cout << endl;
 	return 0;
 }
+
+
+/*
+	output
+	------
+	(1) Print vector using iterator {4,2,5,8,6} : 4 2 5 8 6
+	Print Current size of vector v = 5
+	Print Current Capacity of Vector v = 5
+	Print Maximum size of vector v = 4611686018427387903
+	
+	(2) Now resize vector to v.size() -  1 = 4
+	Print Current size of vector v = 4
+	Print Current Capacity of Vector v = 5
+	Print vector using iterator {4,2,5,8,6} : 4 2 5 8
+	
+	(3) Check Vector is Empty or not
+	Vector v is not Empty...Size = 4 And Capacity = 5
+	
+	(4) Now Shrink_to_fit vector v after resize().
+	Current size of vector v = 4
+	Current Capacity of Vector v = 4
+	Print vector using iterator {4,2,5,8,6} : 4 2 5 8
+
+*/

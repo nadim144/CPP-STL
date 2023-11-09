@@ -96,3 +96,22 @@ int main()
 
 	return 0;
 }
+
+
+/*
+	output
+	------
+	(1) Normal iterator - begin() and end() iterator concepts :
+	Print vector elements using begin() and end() iterator: 4 2 5 8 6
+	
+	(2) Reverse iterator - rbegin() and rend() iterator concepts :
+	Print vector elements using rbegin() and rend() iterator it will print in reverse order : 6 8 5 2 4
+	
+	(3) Constant iterator - cbegin() and cend() iterator concepts :
+	Print vector elements using const_iterator - cbegin() and cend() iterator : 4 2 5 8 6
+	Print vector elements using const_iterator - cbegin() and cend() iterator : 4 2 5 8 6
+	
+	(4) Constant reverse iterator - crbegin() and crend() iterator concepts :
+	Print vector elements using const_reverse_iterator - crbegin() and crend() iterator it will print in reverse order : 6 8 5 2 4
+	Print vector elements using const_reverse_iterator - crbegin() and crend() iterator it will print in reverse order : 6 8 5 2 4
+*/
