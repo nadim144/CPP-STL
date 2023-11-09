@@ -31,25 +31,6 @@ int countPairs(int arr1[], int arr2[], int m, int n, int x)
     int count = 0;
     int i = 0, j = n - 1;
 
-    //while (i < m && j >= 0)
-    //{
-    //    int currentSum = arr1[i] + arr2[j];
-    //    if (currentSum == x) 
-    //    {
-    //        count++;
-    //        i++;
-    //        j--;
-    //    }
-    //    else if (currentSum < x)
-    //    {
-    //        i++;
-    //    }
-    //    else 
-    //    {
-    //        j--;
-    //    }
-    //}
-
     for (int i = 0, j = (n - 1); i < m && j >= 0;)
     {
         int currentSum = arr1[i] + arr2[j];
