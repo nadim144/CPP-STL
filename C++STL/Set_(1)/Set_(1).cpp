@@ -2,7 +2,7 @@
 //
 
 /*
-    (1) Create empty set and add some values it and then print.
+    (1) Create empty set and add some values it and then print. (bydefault it in accesnding order)
 */
 
 #include <iostream>
