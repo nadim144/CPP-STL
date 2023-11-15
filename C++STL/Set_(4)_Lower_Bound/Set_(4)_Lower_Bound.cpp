@@ -20,7 +20,6 @@
 
     (1) - find lower bound, when 2 is present in set
     (2) - find lower bound,when 3 is not present in set
-    (1) - 
 */
 
 
