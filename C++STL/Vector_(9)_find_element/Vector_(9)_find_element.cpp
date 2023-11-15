@@ -1,6 +1,10 @@
 // Vector_(9)_find_element.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+/*
+    Find elements in Vector
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
