@@ -12,7 +12,7 @@ vector<int> gradingStudents(vector<int> grades)
     int diff = 0;
     for (vector<int>::iterator it = grades.begin(); it != grades.end(); ++it)
     {
-        if (*it > 33)
+        if (*it > 38)
         {
             fivefactor = 33 / 5;
             fivefactor++;
