@@ -52,11 +52,11 @@ int main()
 	A* pa = &c;
 	B* pb = &c;
 	C* pc = &c;
-	pa->fun();  //C::fun()
-	pa->fun2(); //A::fun2(), C::fun()
-	pb->fun(); //C::fun(), 
-	pb->fun2(); //B::fun2(), C::fun()
-	pc->fun(); //C::fun()
-	pc->fun2(); //C::fun2(), C::fun()
+	pa->fun();		//C::fun()
+	pa->fun2();		//A::fun2(), C::fun()
+	pb->fun();		//C::fun(), 
+	pb->fun2();		//B::fun2(), C::fun()
+	pc->fun();		//C::fun()
+	pc->fun2();		//C::fun2(), C::fun()
 	return 0;
 }
